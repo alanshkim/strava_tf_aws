@@ -1,0 +1,716 @@
+[
+    {
+        "id": 1965705884,
+        "activity_id": 12891988616,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Legit dude",
+        "mentions_metadata": null,
+        "created_at": "2024-11-13T15:54:41Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Tyler",
+            "lastname": "F."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1965096851,
+        "activity_id": 12884131032,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Dude! Huge accomplishment!!! Way to get after it! ",
+        "mentions_metadata": null,
+        "created_at": "2024-11-12T16:42:46Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Troy",
+            "lastname": "G."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1965128179,
+        "activity_id": 12884131032,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Congrats man!! That\u2019s a lot of miles ",
+        "mentions_metadata": null,
+        "created_at": "2024-11-12T17:38:04Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Tyler",
+            "lastname": "F."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1960559176,
+        "activity_id": 12845301916,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Wow",
+        "mentions_metadata": null,
+        "created_at": "2024-11-07T16:06:02Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Tyler",
+            "lastname": "F."
+        },
+        "reaction_count": 0,
+        "has_reacted": false
+    },
+    {
+        "id": 1960619281,
+        "activity_id": 12845301916,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Alan Kim last night: \u201cYeah I really need to just stop running.\u201d \ud83d\ude02",
+        "mentions_metadata": null,
+        "created_at": "2024-11-07T17:50:33Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Stewart",
+            "lastname": "H."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1960626039,
+        "activity_id": 12845301916,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Stewart Hooks I kid you not, I was sipping coffee while reading your comment and was so close to a spit take. ",
+        "mentions_metadata": null,
+        "created_at": "2024-11-07T18:01:14Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Alan",
+            "lastname": "K."
+        },
+        "reaction_count": 1,
+        "has_reacted": false
+    },
+    {
+        "id": 1956091883,
+        "activity_id": 12805461540,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Got. After. It. Patriotic edition.",
+        "mentions_metadata": null,
+        "created_at": "2024-11-02T16:55:34Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Tyler",
+            "lastname": "F."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1953054975,
+        "activity_id": 12773664557,
+        "post_id": null,
+        "resource_state": 2,
+        "text": ":,)",
+        "mentions_metadata": null,
+        "created_at": "2024-10-29T16:11:02Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Troy",
+            "lastname": "G."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1953066111,
+        "activity_id": 12773664557,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Brutal man",
+        "mentions_metadata": null,
+        "created_at": "2024-10-29T16:29:21Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Tyler",
+            "lastname": "F."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1942301912,
+        "activity_id": 12685575342,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "If you heard it on a podcast it must be true",
+        "mentions_metadata": null,
+        "created_at": "2024-10-18T15:16:39Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Ryan",
+            "lastname": "H."
+        },
+        "reaction_count": 1,
+        "has_reacted": false
+    },
+    {
+        "id": 1939503958,
+        "activity_id": 12653634986,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Makes sense",
+        "mentions_metadata": null,
+        "created_at": "2024-10-14T15:12:28Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Tyler",
+            "lastname": "F."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1938309388,
+        "activity_id": 12638886966,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Awwww \ud83e\udef6\ud83c\udffb Hope yall had a great run!",
+        "mentions_metadata": null,
+        "created_at": "2024-10-13T16:25:32Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Everett",
+            "lastname": "J."
+        },
+        "reaction_count": 0,
+        "has_reacted": false
+    },
+    {
+        "id": 1936280807,
+        "activity_id": 12633727617,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "One eternity later\ud83d\ude02",
+        "mentions_metadata": null,
+        "created_at": "2024-10-12T12:40:39Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Tyler",
+            "lastname": "F."
+        },
+        "reaction_count": 1,
+        "has_reacted": false
+    },
+    {
+        "id": 1934230963,
+        "activity_id": 12614328409,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Sorry to hear Alan! Always best to listen to your body, you\u2019ll come back stronger! ",
+        "mentions_metadata": null,
+        "created_at": "2024-10-09T16:02:21Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Matt",
+            "lastname": "H."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1934327420,
+        "activity_id": 12614328409,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Coming back stronger than ever!",
+        "mentions_metadata": null,
+        "created_at": "2024-10-09T18:23:20Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Greg",
+            "lastname": "M."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1934431678,
+        "activity_id": 12614328409,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "A tough call but a lot of respect for listening to the body, till next time! ",
+        "mentions_metadata": null,
+        "created_at": "2024-10-09T20:54:59Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Troy",
+            "lastname": "G."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1939969890,
+        "activity_id": 12614328409,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Sorry to hear Alan! Plenty of more races to come in your future!",
+        "mentions_metadata": null,
+        "created_at": "2024-10-15T05:26:32Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Josh",
+            "lastname": "A."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1922406064,
+        "activity_id": 12516052542,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Sorry man :/",
+        "mentions_metadata": null,
+        "created_at": "2024-09-27T14:11:07Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Austenn",
+            "lastname": "A."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1922425429,
+        "activity_id": 12516052542,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "That\u2019s crummy man, you\u2019ll bounce back in no time",
+        "mentions_metadata": null,
+        "created_at": "2024-09-27T14:46:48Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Tyler",
+            "lastname": "F."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1922476234,
+        "activity_id": 12516052542,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Thanks boys! Taking it one day at a time. ",
+        "mentions_metadata": null,
+        "created_at": "2024-09-27T16:14:00Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Alan",
+            "lastname": "K."
+        },
+        "reaction_count": 1,
+        "has_reacted": false
+    },
+    {
+        "id": 1922540910,
+        "activity_id": 12516052542,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Alan how about some rest?? ",
+        "mentions_metadata": null,
+        "created_at": "2024-09-27T17:53:56Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Alyssa",
+            "lastname": "G."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1922562984,
+        "activity_id": 12516052542,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Alyssa Govindan I thought 6 days of no running would be enough but apparently not. It's weird because I felt fine after Wildstrubel. And today, it flared up for unknown reason. ",
+        "mentions_metadata": null,
+        "created_at": "2024-09-27T18:27:42Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Alan",
+            "lastname": "K."
+        },
+        "reaction_count": 0,
+        "has_reacted": false
+    },
+    {
+        "id": 1922753507,
+        "activity_id": 12516052542,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Alan Kim  :/ aw man that sucks, hopefully the next 2 weeks include a successful recovery ",
+        "mentions_metadata": null,
+        "created_at": "2024-09-28T01:06:53Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Alyssa",
+            "lastname": "G."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1915555954,
+        "activity_id": 12454264923,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "That\u2019s a lot of miles",
+        "mentions_metadata": null,
+        "created_at": "2024-09-19T22:25:13Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Tyler",
+            "lastname": "F."
+        },
+        "reaction_count": 2,
+        "has_reacted": true
+    },
+    {
+        "id": 1914958024,
+        "activity_id": 12447406333,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "You would Strava your walk in the airport\ud83e\udd23",
+        "mentions_metadata": null,
+        "created_at": "2024-09-19T05:14:59Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Greg",
+            "lastname": "M."
+        },
+        "reaction_count": 3,
+        "has_reacted": true
+    },
+    {
+        "id": 1914959440,
+        "activity_id": 12447406333,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Greg Murphy The trip ain\u2019t complete until I get home.",
+        "mentions_metadata": null,
+        "created_at": "2024-09-19T05:19:26Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Alan",
+            "lastname": "K."
+        },
+        "reaction_count": 2,
+        "has_reacted": false
+    },
+    {
+        "id": 1911809462,
+        "activity_id": 12416826872,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Wow",
+        "mentions_metadata": null,
+        "created_at": "2024-09-15T14:20:42Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Tyler",
+            "lastname": "F."
+        },
+        "reaction_count": 0,
+        "has_reacted": false
+    },
+    {
+        "id": 1909545731,
+        "activity_id": 12402282526,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Yessir!",
+        "mentions_metadata": null,
+        "created_at": "2024-09-13T20:44:17Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Ryan",
+            "lastname": "H."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1909572852,
+        "activity_id": 12402282526,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "So epic!!!",
+        "mentions_metadata": null,
+        "created_at": "2024-09-13T21:39:31Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Tyler",
+            "lastname": "F."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1909590003,
+        "activity_id": 12402282526,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Insane!",
+        "mentions_metadata": null,
+        "created_at": "2024-09-13T22:19:21Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Greg",
+            "lastname": "M."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1909598969,
+        "activity_id": 12402282526,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "So impressive!! Crazy in the snow! ",
+        "mentions_metadata": null,
+        "created_at": "2024-09-13T22:40:48Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Andrea",
+            "lastname": "A."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1909611050,
+        "activity_id": 12402282526,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "\ud83d\udc51\ud83d\udc51\ud83d\udc51",
+        "mentions_metadata": null,
+        "created_at": "2024-09-13T23:10:15Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Jeremy",
+            "lastname": "S."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1909771183,
+        "activity_id": 12402282526,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "!! Time to celebrate \ud83c\udf89(& train for big bear)  ",
+        "mentions_metadata": null,
+        "created_at": "2024-09-14T06:14:21Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Alyssa",
+            "lastname": "G."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1910760079,
+        "activity_id": 12402282526,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Bro this is WIIIILLLLLDD.",
+        "mentions_metadata": null,
+        "created_at": "2024-09-14T21:51:37Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Everett",
+            "lastname": "J."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1911974896,
+        "activity_id": 12402282526,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Amazing brotha, what a feat! ",
+        "mentions_metadata": null,
+        "created_at": "2024-09-15T15:54:11Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Troy",
+            "lastname": "G."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1912773095,
+        "activity_id": 12402282526,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "BROOOOO",
+        "mentions_metadata": null,
+        "created_at": "2024-09-16T08:39:35Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Nelson",
+            "lastname": "L."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1907866663,
+        "activity_id": 12380781275,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Wauw",
+        "mentions_metadata": null,
+        "created_at": "2024-09-11T14:31:10Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Tyler",
+            "lastname": "F."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1907109411,
+        "activity_id": 12374951912,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "BEST way to see the city",
+        "mentions_metadata": null,
+        "created_at": "2024-09-10T14:18:03Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Nelson",
+            "lastname": "L."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1907085273,
+        "activity_id": 12372040818,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Let\u2019s gooo dude!! Excited for you",
+        "mentions_metadata": null,
+        "created_at": "2024-09-10T13:36:12Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Tyler",
+            "lastname": "F."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1902938891,
+        "activity_id": 12342244280,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "7 days til Christmas ",
+        "mentions_metadata": null,
+        "created_at": "2024-09-06T20:51:43Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Tyler",
+            "lastname": "F."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1901943464,
+        "activity_id": 12333108268,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "great catching up dude, good luck and safe travels to \ud83c\udde8\ud83c\udded\ud83c\udde8\ud83c\udded\ud83c\udde8\ud83c\udded",
+        "mentions_metadata": null,
+        "created_at": "2024-09-05T14:42:25Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Jeremy",
+            "lastname": "S."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    },
+    {
+        "id": 1899743156,
+        "activity_id": 12307775712,
+        "post_id": null,
+        "resource_state": 2,
+        "text": "Way to celebrate the day with some good ol\u2019 labor!",
+        "mentions_metadata": null,
+        "created_at": "2024-09-02T17:21:48Z",
+        "cursor": null,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Tyler",
+            "lastname": "F."
+        },
+        "reaction_count": 1,
+        "has_reacted": true
+    }
+]
