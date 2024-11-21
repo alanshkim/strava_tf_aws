@@ -1,0 +1,5 @@
+config.conf
+*.tfvars
+__pycache__
+python
+.terraform
